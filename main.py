@@ -19,7 +19,7 @@ class Yazbel(App):
 
                 return self.govde
 
-        def press(self):
+        def press(self,nesne):
 
             url = "https://d7sms.p.rapidapi.com/secure/send"
 
